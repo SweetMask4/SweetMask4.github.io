@@ -8,7 +8,4 @@ Here is a link to my [[./Emacs.org][Emacs configuration]].
 
 * Links
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+
