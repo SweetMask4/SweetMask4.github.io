@@ -1,6 +1,7 @@
 #+TITLE: Sweetmask Blog
 #+DESCRIPTION: Official website of sweetmask
-#+OPTIONS: toc:nil
+#+OPTIONS: num:nil ^:{}
+#+INCLUDE: "~/repos/SweetMask4.github.io/header.org"
 
 
 * Welcome
