@@ -1,5 +1,7 @@
 #+TITLE: Sweetmask Blog
 #+DESCRIPTION: Official website of sweetmask
+#+OPTIONS: toc:nil
+
 
 * Welcome
 Welcome to my blog! Here we will explore various topics related to free software and the philosophy behind it. Throughout our posts, we will address a wide range of fascinating topics that will help you better understand this exciting world.
