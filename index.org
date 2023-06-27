@@ -1,6 +1,6 @@
 #+TITLE: Sweetmask Blog
 #+DESCRIPTION: Official website of sweetmask
-#+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-bigblow.setup"
+#+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-readtheorg.setup"
 #+OPTIONS: num:nil ^:{}
 #+OPTIONS: toc:nil
 

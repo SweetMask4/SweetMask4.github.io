@@ -18,9 +18,9 @@ h1.title {
     bottom: 26px;
     color: #fff;
     text-shadow: 2px 2px #000;
-    background-image: linear-gradient(#883ab5, #c678dd);
-    border-top: 2px solid #c678dd;
-    border-bottom: 2px solid #883ab5;
+    background-image: linear-gradient(#89b4fa, #74c7ec);
+    border-top: 2px solid #89dceb;
+    border-bottom: 2px solid #94e2d5;
     font-size:200%;
     text-align: left !important;
     margin-top: 10px;
@@ -43,20 +43,20 @@ h2:before{
     font-size: 90%;
     padding: 0px 5px 0px 0px;
     position: relative; bottom: 1px;
-    color: #c678dd;
+    color: #cba6f7;
     content: "⦿ ";
 }
 
 h3{
     font-size:125%;
-    color: #51afef;
+    color: #89b4fa;
 }
 
 h3:before{
     font-size: 90%;
     padding: 0px 5px 0px 0px;
     position: relative; bottom: 1px;
-    color: #51afef;
+    color: #89b4fa;
     content: "⦾ ";}
 
 
@@ -86,7 +86,7 @@ html{
 }
 
 body{
-    background:#22272a;
+    background:#1e1e2e;
     color:#bbc2cf;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
@@ -98,7 +98,7 @@ body{
 }
 
 #content{
-    background:#22272a;
+    background:#1e1e2e;
     height:100%;
     margin-left:300px;
     /* margin:auto; */
