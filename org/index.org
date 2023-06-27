@@ -1,7 +1,7 @@
 #+TITLE: Sweetmask Blog
 #+DESCRIPTION: Official website of sweetmask
-# #+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-readtheorg.setup"
-# #+INCLUDE: "~/repos/SweetMask4.github.io/header.org"
+# #+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-bigblow.setup"
+# # # +INCLUDE: "~/repos/SweetMask4.github.io/org/header.org"
 #+OPTIONS: toc:nil num:nil
 
 * Welcome
@@ -15,5 +15,3 @@ We will also touch on issues related to ethics and privacy in software. We will 
 
 * Links
 [[https://github.com/SweetMask4][Github]]
-
-
