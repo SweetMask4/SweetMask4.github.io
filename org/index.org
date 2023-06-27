@@ -1,16 +1,8 @@
 #+TITLE: Sweetmask Blog
 #+DESCRIPTION: Official website of sweetmask
-#+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-readtheorg.setup"
-#+INCLUDE: "~/repos/SweetMask4.github.io/header.org"
+# #+SETUPFILE: "~/repos/SweetMask4.github.io/org-html-themes/org/theme-readtheorg.setup"
+# #+INCLUDE: "~/repos/SweetMask4.github.io/header.org"
 #+OPTIONS: toc:nil num:nil
-#+BEGIN_EXPORT html
----
-layout: post
-title: Sweetmask block
-subtitle: Sweetmask
-tags: 1
----
-#+END_EXPORT
 
 * Welcome
 Welcome to my blog! Here we will explore various topics related to free software and the philosophy behind it. Throughout our posts, we will address a wide range of fascinating topics that will help you better understand this exciting world.
